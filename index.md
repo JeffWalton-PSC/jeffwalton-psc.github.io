@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Jeff Walton - Paul Smith's College
 
 You can use the [editor on GitHub](https://github.com/JeffWalton-PSC/jeffwalton-psc.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
